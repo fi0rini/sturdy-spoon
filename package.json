@@ -1,0 +1,26 @@
+{
+  "name": "sturdy-spoon",
+  "version": "1.0.0",
+  "description": "Nodejs AWS-SDK interface wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ./**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nf071590/sturdy-spoon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nf071590/sturdy-spoon/issues"
+  },
+  "homepage": "https://github.com/nf071590/sturdy-spoon#readme",
+  "dependencies": {
+    "aws-sdk": "^2.6.7"
+  },
+  "devDependencies": {
+    "eslint": "^3.7.1"
+  }
+}
